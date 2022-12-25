@@ -1,0 +1,1 @@
+export {default as partlyCoudy} from './partyCloudy.jpg';
